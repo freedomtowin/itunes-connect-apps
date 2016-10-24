@@ -18,14 +18,14 @@ Each set of links can be exported in a file type with the appropriate bash comma
 
 Another extended feature for CocoSpace are commands to create, delete, and archive profile. These commands allow for links to be more organized in multiple profiles.
 
-System Requirements
+###System Requirements
 CocoLinks work requires a Macintosh and a Mac OS X version 10.8 or later installed. CocoLinks profiles are located in the app’s container folder as it is required by Apple for distributed applications. CocoLinks supports Safari and Chrome.
 
-Installation
+###Installation
 The application is ready for use after downloading. Moving the CocoLinks to the dock allows for easy access to different profiles.
 
-For More Information
+###For More Information
 Please email me at rohankotwani@icloud.com.
 
-Note about the author
+###Note about the author
 This app was made by Rohan Kotwani, Electrical Engineering graduate from the University of New Orleans and current Masters of Analytics student at Louisiana State University.
