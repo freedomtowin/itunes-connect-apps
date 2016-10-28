@@ -12,7 +12,7 @@ CocoLinks comes with the option to choose between browsers, Chrome or Safari, an
 Additions to the app include a webpage count, next to each set of links, and also a tactical search button. The search button shows all the unique websites currently open in every window. This button is basically a temporary, floating bookmark tab.
 
 ###About CocoSpace
-CocoSpace is an upgraded version of CocoLinks that includes few new profile management and export additions that make better for developers and project managers.
+CocoSpace is an upgraded version of CocoLinks which includes extended features that make it easier for developers or users with lots of saved links that need to be saved in different profiles or exported with different bash commands.
 
 Each set of links can be exported in a file type with the appropriate bash commands. For windows, a .bat file can be exported with bash commands to auto-open the links using bash. A .sh file accomplishes the same task for mac. Finally, a .txt file can be exported with no bash commands.
 
