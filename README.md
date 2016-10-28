@@ -5,8 +5,6 @@ CocoLinks enables the user to save a set of links into the application that can 
 
 By using this App, the user can free up non-essential webpages, switch tasks, or work on multiple workflows while keeping the number of windows and tabs to a minimum.
 
-Each set of links can be exported individually or all sets of links can be archived as a folder.
-
 CocoLinks comes with the option to choose between browsers, Chrome or Safari, and open links in an existing window or new window.
 
 Additions to the app include a webpage count, next to each set of links, and also a tactical search button. The search button shows all the unique websites currently open in every window. This button is basically a temporary, floating bookmark tab.
