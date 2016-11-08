@@ -10,11 +10,13 @@ CocoLinks comes with the option to choose between browsers, Chrome or Safari, an
 Additions to the app include a webpage count, next to each set of links, and also a tactical search button. The search button shows all the unique websites currently open in every window. This button is basically a temporary, floating bookmark tab.
 
 ###About CocoSpace
-CocoSpace is an upgraded version of CocoLinks which includes extended features that make it easier for developers or users with lots of saved links that need to be saved in different profiles or exported with different bash commands.
+CocoReader and CocoLink are free apps that combined together have the same functionality as CocoSpace. CocoSpace makes it easier for developers or users with lots of saved links that need to be saved in different profiles or exported with different bash commands. (The profile name is MSA in the screenshots)
 
 Each set of links can be exported in a file type with the appropriate bash commands. For windows, a .bat file can be exported with bash commands to auto-open the links using bash. A .sh file accomplishes the same task for mac. Finally, a .txt file can be exported with no bash commands.
 
-Another extended feature for CocoSpace are commands to create, delete, and archive profile. These commands allow for links to be more organized in multiple profiles.
+Another extra feature for CocoSpace are commands to create, delete, and archive profile. These commands allow for links to be more organized in multiple profiles.
+
+The most recent addition to the extra is the "Open PDF File." This button can open a PDF in a browser of the user's choice and in a new window or not.
 
 ###About CocoReader
 CocoReader enables the user to view the pdf files in a folder in a list, and then allows the user to open any PDF file in that list with a browser of their choice. 
