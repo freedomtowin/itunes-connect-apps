@@ -1,4 +1,4 @@
-# CocoLinks-CocoSpace
+# CocoLinks-CocoSpace-CocoReader
 
 ###About CocoLinks
 CocoLinks enables the user to save a set of links into the application that can be easily opened later. The app ease of use comes from its ability to open a set of links without having to open a browser and navigate through a bookmark manager. There is also increased privacy due to the self contained nature of the app.
@@ -15,6 +15,11 @@ CocoSpace is an upgraded version of CocoLinks which includes extended features t
 Each set of links can be exported in a file type with the appropriate bash commands. For windows, a .bat file can be exported with bash commands to auto-open the links using bash. A .sh file accomplishes the same task for mac. Finally, a .txt file can be exported with no bash commands.
 
 Another extended feature for CocoSpace are commands to create, delete, and archive profile. These commands allow for links to be more organized in multiple profiles.
+
+###About CocoReader
+CocoReader enables the user to view the pdf files in a folder in a list, and then allows the user to open any PDF file in that list with a browser of their choice. 
+
+CocoReader comes with the option to choose between browsers, Chrome or Safari, and open links in an existing window or new window.
 
 ###System Requirements
 CocoLinks work requires a Macintosh and a Mac OS X version 10.8 or later installed. CocoLinks profiles are located in the app’s container folder as it is required by Apple for distributed applications. CocoLinks supports Safari and Chrome.
