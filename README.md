@@ -18,6 +18,18 @@ Another extra feature for CocoSpace are commands to create, delete, and archive 
 
 The most recent addition to the extra is the "Open PDF File." This button can open a PDF in a browser of the user's choice and in a new window or not.
 
+####Example Usage
+
+The Open, Save, and Delete button correspond to the opening web links from the profile. These buttons operate on the front most window of the “checked” web browser. 
+
+Now, the Search button is less intuitive in that in operates on all the windows. It gets the domain names, such as http://google.com, from all windows. Its pretty useful for searching for a url thats already open, or it can be used as a temporary “floating bookmark” (as in search-> then close out of windows->reopen from search)
+
+On the upper right hand side, the current profile is shown in a drop down menu. New profiles can be created from Extras>Edit Profiles. This becomes useful many saved “link clusters” are in a single profile. 
+
+The Export Links button is mostly for developers who want to export the saved links. I say developers because using the web links in a text format requires some knowledge of bash commands.
+
+Finally, the Open PDF File is pretty useful when downloading multiple PDFs, or when PDF are scattered throughout the file system. Multiple PDFs could be open in a browser and then saved into a profile for ease of access.
+
 ###About CocoReader
 CocoReader enables the user to view the pdf files in a folder in a list, and then allows the user to open any PDF file in that list with a browser of their choice. 
 
