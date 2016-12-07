@@ -20,7 +20,7 @@ The most recent addition to the extra is the "Open PDF File." This button can op
 
 ####Example Usage
 
-The Open, Save, and Delete button correspond to the opening web links from the profile. These buttons operate on the front most window of the “checked” web browser. 
+The Open, Save, and Delete button correspond to the opening web links from the profile. These buttons operate on the front most window of the “checked” web browser. There is an increase of control that comes with the "open in new window" option. Besides improved url management, this feature is increadibly useful when multiple Desktops Views because windows can be opened easily without the need to drag and drop windows.
 
 Now, the Search button is less intuitive in that in operates on all the windows. It gets the domain names, such as http://google.com, from all windows. Its pretty useful for searching for a url thats already open, or it can be used as a temporary “floating bookmark” (as in search-> then close out of windows->reopen from search)
 
