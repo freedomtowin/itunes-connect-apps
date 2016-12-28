@@ -1,7 +1,7 @@
 # CocoLinks-CocoSpace-CocoReader
 
 ###About CocoLinks
-CocoLinks enables the user to save a set of links into the application that can be easily opened later. The app ease of use comes from its ability to open a set of links without having to open a browser and navigate through a bookmark manager. There is also increased privacy due to the self contained nature of the app.
+CocoLinks enables the user to save a set of links into the application that can be easily opened later. The app's ease of use comes from its ability to open a set of links without having to open a browser and navigate through a bookmark manager. There is also increased privacy due to the self contained nature of the app.
 
 By using this App, the user can free up non-essential webpages, switch tasks, or work on multiple workflows while keeping the number of windows and tabs to a minimum.
 
@@ -14,7 +14,7 @@ CocoReader and CocoLink are free apps that combined together have the same funct
 
 Each set of links can be exported in a file type with the appropriate bash commands. For windows, a .bat file can be exported with bash commands to auto-open the links using bash. A .sh file accomplishes the same task for mac. Finally, a .txt file can be exported with no bash commands.
 
-Another extra feature for CocoSpace are commands to create, delete, and archive profile. These commands allow for links to be more organized in multiple profiles.
+Another extra feature for CocoSpace are commands to create, delete, and archive profile. These commands allows for links to be more organized in multiple profiles.
 
 The most recent addition to the extra is the "Open PDF File." This button can open a PDF in a browser of the user's choice and in a new window or not.
 
@@ -22,7 +22,7 @@ The most recent addition to the extra is the "Open PDF File." This button can op
 
 The Open, Save, and Delete button correspond to the opening web links from the profile. These buttons operate on the front most window of the “checked” web browser. There is an increase of control that comes with the "open in new window" option. Besides improved url management, this feature is increadibly useful when multiple Desktops Views because windows can be opened easily without the need to drag and drop windows.
 
-Now, the Search button is less intuitive in that in operates on all the windows. It gets the domain names, such as http://google.com, from all windows. Its pretty useful for searching for a url thats already open, or it can be used as a temporary “floating bookmark” (as in search-> then close out of windows->reopen from search)
+The Search button operates on all the windows and gets the domain names, such as http://google.com. Its useful for searching for an open url.
 
 On the upper right hand side, the current profile is shown in a drop down menu. New profiles can be created from Extras>Edit Profiles. This becomes useful many saved “link clusters” are in a single profile. 
 
