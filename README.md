@@ -10,16 +10,22 @@ CocoLinks comes with the option to choose between browsers, Chrome or Safari, an
 Additions to the app include a webpage count, next to each set of links, and also a tactical search button. The search button shows all the unique websites currently open in every window. This button is basically a temporary, floating bookmark tab.
 
 ###About CocoSpace
-CocoReader and CocoLink are free apps that combined together have the same functionality as CocoSpace. CocoSpace makes it easier for developers or users with lots of saved links that need to be saved in different profiles or exported with different bash commands. (The profile name is MSA in the screenshots)
 
-Each set of links can be exported in a file type with the appropriate bash commands. For windows, a .bat file can be exported with bash commands to auto-open the links using bash. A .sh file accomplishes the same task for mac. Finally, a .txt file can be exported with no bash commands.
+CocoSpace implements a project structure in order to help you segregate your work. Each project appears under the selected profile label as a specified profile name. Each project divides your saved urls into multiple contexts, each with their own workspace.  This arrangement enables you to switch between different projects and continue working from where you left off.
 
-Another extra feature for CocoSpace are commands to create, delete, and archive profile. These commands allows for links to be more organized in multiple profiles.
+Creating a project is straightforward, find the dropdown menu, under the CocoLinks tab named Edit Profile and select New Profile and then follow the prompts. 
 
-The most recent addition to the extra is the "Open PDF File." This button can open a PDF in a browser of the user's choice and in a new window or not.
+CocoSpace's CocoReader suite includes a tool to manage pdf files on the computer's file system.  Sometimes multiple pdf files are located in a directory and need to be accessed for a project. The table format easily allows the user to find and open multiple pdf files in the browser. The same options such as choosing between Safari and Chrome or opening a document in a New Window also applies to pdfs.
+
+The Open, Save, and Delete buttons mainly correspond to managing url links in each profile. These buttons operate on the front most window of the “checked” web browser. There is an increase of control that comes with the "open in new window" option. Besides improved url management, this feature is incredibly useful when multiple Desktops Views are used because windows can be opened easily without dragging and dropping browser windows.
+
+The Search button is less intuitive in that in operates on all the windows. It gets the "domain names", such as http://google.com, from all windows. Its useful for searching for a url thats already open, or the feature can be used as a "temporary bookmark.”
+
+Another great way to use CocoSpace is to assign the app to all Desktops. Then, the "new window", Cmd-N, shortcut can be used to open a web browser window in a specific desktop.
+
+
 
 ####Example Usage
-
 The Open, Save, and Delete button correspond to the opening web links from the profile. These buttons operate on the front most window of the “checked” web browser. There is an increase of control that comes with the "open in new window" option. Besides improved url management, this feature is increadibly useful when multiple Desktops Views because windows can be opened easily without the need to drag and drop windows.
 
 The Search button operates on all the windows and gets the domain names, such as http://google.com. Its useful for searching for an open url.
