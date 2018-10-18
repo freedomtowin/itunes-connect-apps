@@ -1,8 +1,12 @@
 # App List
-**CocoSpace
-**CocoLinks
-**CocoNotebook for Jupyter 
-**CocoData
+
+**CocoSpace** 
+
+**CocoLinks** 
+
+**CocoNotebook for Jupyter**
+
+**CocoData**
 
 ### Privacy Policy
 
