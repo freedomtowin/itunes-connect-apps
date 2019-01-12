@@ -14,7 +14,7 @@
 
 # CocoLinks
 
-![Please find demo video here.]([https://youtu.be/2O8myTtK64s)
+[Please find demo video here.]([https://youtu.be/2O8myTtK64s)
 
 ## About CocoLinks
 
