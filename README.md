@@ -12,7 +12,7 @@
 
 6. **iMShark**
 
-# CocoLinks
+# 2. CocoLinks
 
 [Demo Video](https://youtu.be/2O8myTtK64s)
 
@@ -40,7 +40,7 @@ Please email me at rohankotwani@icloud.com.
 
 This app was made by Rohan Kotwani, B.S. in Electrical Engineering & M.S. in Analytics
 
-# CocoNotebook for Jupyter
+# 3. CocoNotebook for Jupyter
 
 [Demo Video](https://youtu.be/ndPQCXWPld8)
 
