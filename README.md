@@ -16,4 +16,28 @@
 
 ![Please find demo video here.]([https://youtu.be/2O8myTtK64s)
 
+## About CocoLinks
+
+CocoLinks makes it easier to manage multiple sets of links than Safari's or Chrome's bookmark manager. It utilities the power of AppleScript to externally save, delete, or open url links from either Safari or Chrome. The search button can be used to search for and then open any url link that is currently open in any browser window into the current, frontmost window. CocoLinks also has the option to either open links into the frontmost browser window or into a new window.
+
+## How is it Useful?
+
+The open, delete, and save button operate on the front most window. These buttons can save a set of links into the app which can then be open, from the app, into a browser. The search button operates on all the windows and displays all the open url links. These url links can then be opened into the current browser window. In addition, a new, blank browser window can be opened from CocoLinks with the CMD-N shortcut.
+
+## System Requirements
+
+CocoLinks requires a Macintosh and a Mac OS X version 10.8 or later installed. CocoLinks profiles are located in the app’s container folder as it is required by Apple for distributed applications. CocoLinks supports Safari and Chrome.
+
+## Installation
+
+The application is ready for use after downloading. Moving the CocoLinks to the dock allows for easy access to different profiles.
+
+## For More Information
+
+Please email me at rohankotwani@icloud.com.
+
+## Note about the author
+
+This app was made by Rohan Kotwani, B.S. in Electrical Engineering & M.S. in Analytics
+
 ![](http://is2.mzstatic.com/image/thumb/Purple118/v4/d0/74/2c/d0742c04-fd35-0802-ecf3-a20882a6efff/source/350x350bb.png)
