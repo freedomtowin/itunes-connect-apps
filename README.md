@@ -16,4 +16,4 @@
 
 ![Please find demo video here.]([https://youtu.be/2O8myTtK64s)
 
-![](https://itunes.apple.com/us/app/cocolinks/id1092405727?mt=12)
+![](http://is2.mzstatic.com/image/thumb/Purple118/v4/d0/74/2c/d0742c04-fd35-0802-ecf3-a20882a6efff/source/350x350bb.png)
