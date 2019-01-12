@@ -40,8 +40,6 @@ Please email me at rohankotwani@icloud.com.
 
 This app was made by Rohan Kotwani, B.S. in Electrical Engineering & M.S. in Analytics
 
-![](http://is2.mzstatic.com/image/thumb/Purple118/v4/d0/74/2c/d0742c04-fd35-0802-ecf3-a20882a6efff/source/350x350bb.png)
-
 # CocoNotebook for Jupyter
 
 [Demo Video](https://youtu.be/ndPQCXWPld8)
@@ -65,5 +63,3 @@ Please email me at rohankotwani@icloud.com.
 ## Note about the author
 
 This app was made by Rohan Kotwani, B.S. in Electrical Engineering & M.S. in Analytics
-
-![](http://is3.mzstatic.com/image/thumb/Purple118/v4/e6/fa/81/e6fa8106-c74f-4cf1-24d0-69a99728bd5a/source/350x350bb.png)
