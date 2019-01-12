@@ -14,7 +14,7 @@
 
 # CocoLinks
 
-[DEMO Video](https://youtu.be/2O8myTtK64s)
+[Demo Video](https://youtu.be/2O8myTtK64s)
 
 ## About CocoLinks
 
@@ -41,3 +41,29 @@ Please email me at rohankotwani@icloud.com.
 This app was made by Rohan Kotwani, B.S. in Electrical Engineering & M.S. in Analytics
 
 ![](http://is2.mzstatic.com/image/thumb/Purple118/v4/d0/74/2c/d0742c04-fd35-0802-ecf3-a20882a6efff/source/350x350bb.png)
+
+# CocoNotebook for Jupyter
+
+[Demo Video](https://youtu.be/ndPQCXWPld8)
+
+## About CocoJupyter
+
+CocoJupyter can open Jupyter Notebooks into a new browser window by specifying Jupyter notebook's root directory. CocoJupyter also can open .py, .r, and .txt file in Jupyter notebook's edit mode when choosing the IPYNB option. There is an option to choose between browsers, Chrome or Safari, and open links in an existing window or new window.
+
+## System Requirements
+
+CocoJupyter requires a Macintosh and a Mac OS X version 10.8 or later installed. CocoJupyter supports Safari and Chrome.
+
+## Installation
+
+The application is ready for use after downloading.
+
+## For More Information
+
+Please email me at rohankotwani@icloud.com.
+
+## Note about the author
+
+This app was made by Rohan Kotwani, B.S. in Electrical Engineering & M.S. in Analytics
+
+![](http://is3.mzstatic.com/image/thumb/Purple118/v4/e6/fa/81/e6fa8106-c74f-4cf1-24d0-69a99728bd5a/source/350x350bb.png)
