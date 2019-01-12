@@ -63,3 +63,37 @@ Please email me at rohankotwani@icloud.com.
 ### Note about the author
 
 This app was made by Rohan Kotwani, B.S. in Electrical Engineering & M.S. in Analytics
+
+# 4. CocoData
+
+### About CocoData
+
+CocoData is an online data collection tool primarily designed to quickly download html, text, or data between specific html tags. CocoData's buttons operate on either the activate page or all tabs of the frontmost browser window. The results are then saved into a user specified file in the Downloads folder.
+
+The Regex Source button can be used extract data between tags such as urls and image links from html by using a regular expression, regex, query. The list of result can be refined with a keep list and drop list. The results will contain all of the words in the keep list and none of the words in the drop list. Each word in the keep and drop list should be comma separated.
+
+A button was added to import a list of URLs into the browser, CocoData Options>Import URLS.
+
+The Outer HTML button can be used to download a webpage. The Remove Tags button can be extract the text in the html of a webpage.
+
+#### Regex Query Examples
+
+Get data between text - <TAG\b[^>]*>(.*?)</TAG>
+Get links - href="(.+?)"
+Please Note: In order for CocoData to work with Safari, an additional step is needed. Enable Develop>Allow Javascript from Apple Events.
+
+### System Requirements
+
+CocoData requires a Macintosh and a Mac OS X version 10.8 or later installed. CocoData supports Safari and Chrome.
+
+### Installation
+
+The application is ready for use after downloading.
+
+### For More Information
+
+Please email me at rohankotwani@icloud.com.
+
+### Note about the author
+
+This app was made by Rohan Kotwani, B.S. in Electrical Engineering & M.S. in Analytics
