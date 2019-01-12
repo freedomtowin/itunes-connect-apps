@@ -14,6 +14,4 @@
 
 ## CocoLinks
 
-https://youtu.be/2O8myTtK64s
-
-<iframe width="620" height="315" src="https://www.youtube.com/embed/TDOH-VHfejI"> </iframe>
+![Please find demo video here.]([https://youtu.be/2O8myTtK64s)
